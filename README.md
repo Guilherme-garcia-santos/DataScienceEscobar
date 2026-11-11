@@ -47,7 +47,7 @@ python inferencia.py
 python inferencia.py --interativo
 ```
 
-Testado com Python 3.13, pandas 2.3, scikit-learn 1.9 e matplotlib 3.11.
+Testado com Python 3.13, pandas 3.1, numpy 2.5, scikit-learn 1.9 e matplotlib 3.11.
 
 ## A base de dados
 
